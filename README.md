@@ -1,6 +1,6 @@
 # learn_movie_app
 
-A new Flutter project.
+Movie App represents a beginner-friendly Flutter template, encompassing custom UI components, specialized buttons, and various features. The app enables API integration using HTTP, allowing users to fetch and display data in a list format. It incorporates navigation functionalities, enabling parameter passing between screens. A key feature includes a tailored search capability within the list view for an enhanced user experience. Moreover, the project incorporates extension functions, providing added functionality and ease of development. Notably, the app integrates a custom search feature specifically designed for the movie list, enhancing the overall user interaction and search experience.
 
 ## Getting Started
 
